@@ -52,10 +52,6 @@ MedAssist addresses these challenges through three pillars:
 **Intelligent patient monitoring:**
 - Color-coded priority system (🔴 Critical, 🟡 High, 🟢 Normal)
 - AI-powered clinical summaries (Gemini AI)
-- Risk Vector Radar visualization
-- Time Machine for historical data
-- Configurable emergency contacts
-
 ---
 
 ## 🎯 Key Features
@@ -65,8 +61,7 @@ MedAssist addresses these challenges through three pillars:
 ✅ **Premium UI** - Glassmorphism design for optimal clinical focus  
 ✅ **AI-Powered Summaries** - Clinical narratives from patient data  
 ✅ **Voice Commands** - Hands-free documentation  
-✅ **Quick Actions** - One-click discharge & orders  
-✅ **Risk Visualization** - Real-time risk assessment radar  
+✅ **Quick Actions** - One-click discharge & orders   
 ✅ **Priority System** - Color-coded patient triage  
 ✅ **Clinical Safety** - "For physician review only" disclaimers  
 
